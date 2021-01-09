@@ -409,7 +409,7 @@ figure img:hover,
 
 .icon_bar{
     position: fixed;
-    top:5%;
+    top:50%;
     
     transform: translateY(-5%);
     -webkit-transform: translateY(-5%);
